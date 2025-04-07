@@ -5,9 +5,6 @@
 [submodule "conleyreg"]
 	path = conleyreg
 	url = https://github.com/cdueben/conleyreg
-[submodule "cppcontainers"]
-	path = cppcontainers
-	url = https://github.com/cdueben/cppcontainers
 [submodule "spaths"]
 	path = spaths
 	url = https://github.com/cdueben/spaths
